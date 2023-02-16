@@ -1,0 +1,10 @@
+:root {
+	--primary-color: #ffffff !important;
+	--secondary-color: #8b8989 !important;
+	--background-color: #111 !important;
+	--background-glass-color: rgb(17 17 17 / 73%) !important;
+	--icon-based-text-color: #FFF !important;
+	--item-background-color: #222 !important;
+	--dimmed-background-color: #222222 !important;
+	--button-color: #a37d43 !important;
+}
