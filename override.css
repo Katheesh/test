@@ -2,9 +2,11 @@
 	--primary-color: #ffffff !important;
 	--secondary-color: #8b8989 !important;
 	--background-color: #111 !important;
-	--background-glass-color: rgb(17 17 17 / 73%) !important;
-	--icon-based-text-color: #FFF !important;
-	--item-background-color: #222 !important;
+	--background-glass-color: rgb(17 17 17 / 73%) !important; 
 	--dimmed-background-color: #222222 !important;
-	--button-color: #a37d43 !important;
+	
+	--success-color: #49E300 !important;
+	--info-color: #0D99FF !important;
+	--warning-color: #FF3D00 !important;
+	--danger-color: #FFE600 !important;
 }
